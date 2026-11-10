@@ -84,6 +84,10 @@ _Avoid_: Reversal, Chargeback, Cancellation
 A message from Cadence to one Student, raised by something that happened: a decision on their Refund Request, a reply to their comment, new lessons on a course they are enrolled on, or a Seat claimed on their Team Licence. A Student only gets emailed a Notification if they have opted in to that kind of Notification, except a decision on their Refund Request, which is always emailed. Notifications inside Cadence can't be turned off.
 _Avoid_: Message, Alert
 
+**Unread Notification**:
+A Notification its Student hasn't acted on yet: they haven't clicked it or its link, nor acknowledged it when welcomed back after logging in. Seeing it, or putting it off for later, doesn't make it read. Once read, it stays read on every device.
+_Avoid_: New, Unseen
+
 **Announcement**:
 A Notification a Platform Admin writes themselves and sends to many Students at once: either every Student, or the Students enrolled on chosen courses (Lapsed Students are left out). Who receives it is fixed when it is sent; Students who arrive later don't get it. It can't be edited, only withdrawn, which removes it for every recipient.
 _Avoid_: Broadcast, News, Message

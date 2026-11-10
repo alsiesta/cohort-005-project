@@ -81,7 +81,7 @@ _Avoid_: Reversal, Chargeback, Cancellation
 ### Notifications
 
 **Notification**:
-A message from Cadence to one Student, raised by something that happened: a decision on their Refund Request, someone else's reply to their comment, new lessons on a course they are enrolled on (one Notification per course and day), or someone else claiming a Seat on their Team Licence. A Student only gets emailed a Notification if they have opted in to that kind of Notification, except a decision on their Refund Request, which is always emailed. Notifications inside Cadence can't be turned off.
+A message from Cadence to one Student, raised by something that happened: a decision on their Refund Request, someone else's reply to their comment, new lessons on a course they are enrolled on (one Notification per course and day), or someone else claiming a Seat on their Team Licence. A Student only gets emailed a Notification if they have opted in to that kind of Notification and confirmed their email address, except a decision on their Refund Request, which is always emailed. Notifications inside Cadence can't be turned off.
 _Avoid_: Message, Alert
 
 **Unread Notification**:

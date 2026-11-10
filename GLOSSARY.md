@@ -78,6 +78,16 @@ A Refund Request a Platform Admin has turned down. Nothing the Purchase granted 
 The money returned to the buyer after their Refund Request is approved. It is always the full amount they paid. A declined Refund Request has no Refund.
 _Avoid_: Reversal, Chargeback, Cancellation
 
+### Notifications
+
+**Notification**:
+A message from Cadence to one Student, raised by something that happened: a decision on their Refund Request, a reply to their comment, new lessons on a course they are enrolled on, or a Seat claimed on their Team Licence. A Student only gets emailed a Notification if they have opted in, except a decision on their Refund Request, which is always emailed.
+_Avoid_: Message, Alert
+
+**Announcement**:
+A Notification a Platform Admin writes themselves and sends to many Students at once.
+_Avoid_: Broadcast, News, Message
+
 **Pending Refund**:
 A Refund whose Refund Request has been approved, where the money hasn't been confirmed as sent yet.
 _Avoid_: Pending (for a Refund Request awaiting review)

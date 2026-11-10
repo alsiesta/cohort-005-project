@@ -89,7 +89,7 @@ A Notification its Student hasn't acted on yet: they haven't clicked it or its l
 _Avoid_: New, Unseen
 
 **Announcement**:
-A Notification a Platform Admin writes themselves and sends to many Students at once: either every Student, or the Students enrolled on chosen courses (Lapsed Students are left out). Who receives it is fixed when it is sent; Students who arrive later don't get it. It can't be edited, only withdrawn, which removes it for every recipient.
+A Notification a Platform Admin writes themselves and sends to many Students at once: either every Student, or the Students enrolled on chosen courses (Lapsed Students are left out). Who receives it is fixed when it is sent; Students who arrive later don't get it. It can't be edited, only withdrawn, which removes it for every recipient and stops any of its emails not yet sent. Its emails also stop once it expires.
 _Avoid_: Broadcast, News, Message
 
 **Expired Announcement**:

@@ -85,8 +85,11 @@ A message from Cadence to one Student, raised by something that happened: a deci
 _Avoid_: Message, Alert
 
 **Announcement**:
-A Notification a Platform Admin writes themselves and sends to many Students at once.
+A Notification a Platform Admin writes themselves and sends to many Students at once: either every Student, or the Students enrolled on chosen courses (Lapsed Students are left out). Who receives it is fixed when it is sent; Students who arrive later don't get it. It can't be edited, only withdrawn, which removes it for every recipient.
 _Avoid_: Broadcast, News, Message
+
+**Expired Announcement**:
+An Announcement past the end date its Platform Admin gave it. It is no longer put in front of Students, but they can still find it among their past Notifications.
 
 **Pending Refund**:
 A Refund whose Refund Request has been approved, where the money hasn't been confirmed as sent yet.
